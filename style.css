@@ -21,15 +21,14 @@ body {
   flex-direction: column;
   background-color: #1f2937;
   padding: 30px;
-
 }
 
 .header-top {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
-  margin-bottom: 100px;
-
+  margin-bottom: 120px;
+  
   padding: 0 20px;
 }
 
@@ -40,7 +39,6 @@ body {
   text-decoration: none;
 
   flex-shrink: 0;
-  margin-right: 10px;
 }
 
 .header-link , p{
@@ -63,9 +61,8 @@ li {
 
 .header-bottom{
     display: flex;
-
     justify-content: center;
-    gap: 30px;  
+     gap: 220px; 
 }
 
 h2{ /* this website is awesome */
@@ -98,7 +95,6 @@ button{
 .header-bottomright{
     align-self: flex-end;
 
-    margin-left: 50px;
     max-width: 500px;
 }
 
@@ -113,7 +109,7 @@ img {
     flex-direction: column;
     align-items: center;
 
-    margin-bottom: 100px;
+    margin-bottom: 120px;
 }
 
 .title{
@@ -155,6 +151,7 @@ img {
     background-color: #e5e7eb;
 
     padding: 200px;
+    margin-bottom: 60px;
 }
 
 em {
@@ -175,4 +172,22 @@ em {
     font-size: 25px;
 }
 
+.sign-up{
+    display: flex;
 
+    background-color: rgb(152, 152, 237);
+    width: 800px;
+    margin-bottom: 60px;
+}
+
+.sign-up-message{
+    display: flex;
+    
+    
+
+    flex-direction: column;
+}
+
+.sign-up-halves{
+    display: flex;
+}
