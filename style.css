@@ -91,6 +91,7 @@ button {
 
   outline: none;
   border-radius: 10px;
+  border-color: rgb(157, 157, 157);
   padding: 10px 20px;
 }
 
