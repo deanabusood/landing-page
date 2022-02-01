@@ -104,7 +104,7 @@ button {
 
 img {
   height: 400px;
-  width: 600px;
+  width: auto;
 }
 
 /* random information contents */
