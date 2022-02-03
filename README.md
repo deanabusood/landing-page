@@ -1,4 +1,4 @@
-# odin-landing-page 🪂📄
+# landing-page 🪂📄
 
 This is a complete html/css project provided by The Odin Project titled "Landing Page"
 
