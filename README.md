@@ -4,4 +4,4 @@ This is a complete html/css project provided by The Odin Project titled "Landing
 
 The layout and designs are inspired by sample image files (/source directory) I replicated! 🧑‍🎨
 
-View here: https://deanabusood.github.io/odin-landing-page/ (NOT MOBILE SUPPORTED)
+View here: https://deanabusood.github.io/landing-page/ (NOT MOBILE SUPPORTED)
